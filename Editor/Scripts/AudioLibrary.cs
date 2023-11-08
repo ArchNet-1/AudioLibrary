@@ -1,6 +1,5 @@
 using System;
 using System.Collections.Generic;
-using Flow.Scripts.Element_Service.Enums;
 using UnityEngine;
 
 namespace Library
@@ -16,8 +15,7 @@ namespace Library
         {
             return new HashSet<Type>
             {
-                typeof(Music),
-                typeof(Kingdom)
+                typeof(Music)
             };
         }
     }
