@@ -29,4 +29,4 @@ _sounds.PlayOneShot(_audioSource, Sfx.Jump);
 
 ## License
 
-See [LICENSE.md](LICENSE.md).
+MIT, see [LICENSE.md](LICENSE.md).

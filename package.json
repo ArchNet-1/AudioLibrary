@@ -4,6 +4,7 @@
   "displayName": "ArchNet - Audio Library",
   "description": "Audio clips stored by enum or int key, so code plays sounds by name and a clip can be replaced in one place.",
   "unity": "6000.0",
+  "license": "MIT",
   "documentationUrl": "https://archnet-plateform.fr/#AudioLibrary",
   "changelogUrl": "https://github.com/ArchNet-1/AudioLibrary/blob/main/CHANGELOG.md",
   "licensesUrl": "https://github.com/ArchNet-1/AudioLibrary/blob/main/LICENSE.md",
