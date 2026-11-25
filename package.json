@@ -1,22 +1,23 @@
 {
   "name": "com.archnet.library.audio",
-  "version": "1.0.1",
-  "displayName": "Arch Net Library Audio",
-  "description": "Audio Library is a link between AudioClip and enum.",
-  "unity": "2020.1",
-  "unityRelease": "0b5",
+  "version": "2.0.0",
+  "displayName": "ArchNet - Audio Library",
+  "description": "Audio clips stored by enum or int key, so code plays sounds by name and a clip can be replaced in one place.",
+  "unity": "6000.0",
+  "documentationUrl": "https://archnet-plateform.fr/#AudioLibrary",
+  "changelogUrl": "https://github.com/ArchNet-1/AudioLibrary/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/ArchNet-1/AudioLibrary/blob/main/LICENSE.md",
+  "dependencies": {
+    "com.archnet.library.core": "2.0.0"
+  },
   "keywords": [
-    "Arch",
-    "ArchNet",
-    "Library",
-    "AudioClip",
-    "Custom"
+    "archnet",
+    "library",
+    "audio"
   ],
   "author": {
-    "name": "LOUIS PAKEL, Arch Net",
-    "email": "archnetmodule@gmail.com"
-  },
-     "dependencies": {
-    "com.unity.editorcoroutines": "1.0.0"
+    "name": "ArchNet",
+    "email": "archnetmodule@gmail.com",
+    "url": "https://archnet-plateform.fr"
   }
 }
